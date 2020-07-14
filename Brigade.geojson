@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Nom": "Caserne Hamdou", "Commune": "Commune de Boulaos", "Num_Tel": 21320834, "Site_web": "www.gendarmerie.dj" }, "geometry": { "type": "Point", "coordinates": [ 43.150380288717805, 11.59251139582406 ] } },
+{ "type": "Feature", "properties": { "Nom": "Brigade 3\/4\/5", "Commune": "Commune de Boulaos", "Num_Tel": 21320837, "Site_web": "www.gendarmerie.dj" }, "geometry": { "type": "Point", "coordinates": [ 43.151118508629573, 11.584910316515504 ] } },
+{ "type": "Feature", "properties": { "Nom": "Brigade 6\/7", "Commune": "Commune de Boulaos", "Num_Tel": 21320838, "Site_web": "www.gendarmerie.dj" }, "geometry": { "type": "Point", "coordinates": [ 43.146455017581808, 11.577545801339138 ] } },
+{ "type": "Feature", "properties": { "Nom": "Brigade Ambouli", "Commune": "Commune de Boulaos", "Num_Tel": 21340227, "Site_web": "www.gendarmerie.dj" }, "geometry": { "type": "Point", "coordinates": [ 43.136231149618034, 11.560009835157322 ] } },
+{ "type": "Feature", "properties": { "Nom": "Brigade Cheick Moussa", "Commune": "Commune de Balbala", "Num_Tel": 21361003, "Site_web": "www.gendarmerie.dj" }, "geometry": { "type": "Point", "coordinates": [ 43.113370515219451, 11.561073814910371 ] } },
+{ "type": "Feature", "properties": { "Nom": "Brigade Einguella", "Commune": "Commune de Boulaos", "Num_Tel": 21320836, "Site_web": "www.gendarmerie.dj" }, "geometry": { "type": "Point", "coordinates": [ 43.142890307979144, 11.588463166675002 ] } }
+]
+}
