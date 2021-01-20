@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "ONUS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Layer": "2", "Text": "ONU 01" }, "geometry": { "type": "Point", "coordinates": [ 43.133541658612984, 11.606615938021918 ] } },
+{ "type": "Feature", "properties": { "Layer": "17", "Text": "ONU02" }, "geometry": { "type": "Point", "coordinates": [ 43.153275538238979, 11.610863413958951 ] } },
+{ "type": "Feature", "properties": { "Layer": "11", "Text": "ONU 12" }, "geometry": { "type": "Point", "coordinates": [ 43.14329454027272, 11.59415603063454 ] } },
+{ "type": "Feature", "properties": { "Layer": "12", "Text": "ONU 13" }, "geometry": { "type": "Point", "coordinates": [ 43.145836673663602, 11.595435781304124 ] } },
+{ "type": "Feature", "properties": { "Layer": "1", "Text": "ONU 00" }, "geometry": { "type": "Point", "coordinates": [ 43.139733586868353, 11.600972386310069 ] } },
+{ "type": "Feature", "properties": { "Layer": "10", "Text": "ONU 11" }, "geometry": { "type": "Point", "coordinates": [ 43.145146457358031, 11.590908206581213 ] } },
+{ "type": "Feature", "properties": { "Layer": "3", "Text": "ONU 03" }, "geometry": { "type": "Point", "coordinates": [ 43.148678185784185, 11.590456412510131 ] } },
+{ "type": "Feature", "properties": { "Layer": "9", "Text": "ONU 10" }, "geometry": { "type": "Point", "coordinates": [ 43.137569067138969, 11.592502298532029 ] } },
+{ "type": "Feature", "properties": { "Layer": "15", "Text": "ONU 17" }, "geometry": { "type": "Point", "coordinates": [ 43.139896130598842, 11.575322183526678 ] } },
+{ "type": "Feature", "properties": { "Layer": "5", "Text": "ONU 05" }, "geometry": { "type": "Point", "coordinates": [ 43.149379786427325, 11.567682773557749 ] } },
+{ "type": "Feature", "properties": { "Layer": "7", "Text": "ONU 08" }, "geometry": { "type": "Point", "coordinates": [ 43.131488700423539, 11.572887039444447 ] } },
+{ "type": "Feature", "properties": { "Layer": "19", "Text": "ONU14" }, "geometry": { "type": "Point", "coordinates": [ 43.148574295539319, 11.556599072227957 ] } },
+{ "type": "Feature", "properties": { "Layer": "14", "Text": "ONU 16" }, "geometry": { "type": "Point", "coordinates": [ 43.164184496403784, 11.563522934189789 ] } },
+{ "type": "Feature", "properties": { "Layer": "6", "Text": "ONU 06" }, "geometry": { "type": "Point", "coordinates": [ 43.155530062319187, 11.575485040294335 ] } },
+{ "type": "Feature", "properties": { "Layer": "18", "Text": "ONU07" }, "geometry": { "type": "Point", "coordinates": [ 43.144109433331771, 11.553918706805563 ] } },
+{ "type": "Feature", "properties": { "Layer": "4", "Text": "ONU 04" }, "geometry": { "type": "Point", "coordinates": [ 43.148994788565865, 11.582677437114056 ] } },
+{ "type": "Feature", "properties": { "Layer": "16", "Text": "ONU 18" }, "geometry": { "type": "Point", "coordinates": [ 43.135364424307369, 11.583752616336472 ] } },
+{ "type": "Feature", "properties": { "Layer": "13", "Text": "ONU 15" }, "geometry": { "type": "Point", "coordinates": [ 43.130329867949335, 11.579359784447892 ] } },
+{ "type": "Feature", "properties": { "Layer": "8", "Text": "ONU 09" }, "geometry": { "type": "Point", "coordinates": [ 43.139923950772115, 11.579867655029631 ] } }
+]
+}
